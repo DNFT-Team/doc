@@ -244,7 +244,7 @@ In order to improve the rounding error and increase the theoretical minimum quot
 
 ## Home
 
-![img](/Users/fangzhihui/Documents/GitHub/doc/cn/img/home.png)
+![img](/Users/fangzhihui/Documents/GitHub/doc/en/img/home.png)
 
 Search query
 
@@ -264,7 +264,7 @@ Asset collection and trading
 
 ## Mining
 
-![img](/Users/fangzhihui/Documents/GitHub/doc/cn/img/mining.png)
+![img](/Users/fangzhihui/Documents/GitHub/doc/en/img/mining.png)
 
 Mining
 
@@ -272,7 +272,7 @@ Asset pledge
 
 ## Bridge
 
-![img](/Users/fangzhihui/Documents/GitHub/doc/cn/img/bridge.png)
+![img](/Users/fangzhihui/Documents/GitHub/doc/en/img/bridge.png)
 
 Cross-chain
 
@@ -282,7 +282,7 @@ Cross-chain
 
 ## Market
 
-![img](/Users/fangzhihui/Documents/GitHub/doc/cn/img/market.png)
+![img](/Users/fangzhihui/Documents/GitHub/doc/en/img/market.png)
 
 Art Management Center
 
@@ -292,7 +292,7 @@ Art purchase
 
 ## Data
 
-![img](/Users/fangzhihui/Documents/GitHub/doc/cn/img/data.jpg)Event Information Center
+![img](/Users/fangzhihui/Documents/GitHub/doc/en/img/data.jpg)Event Information Center
 
 Smart data
 
